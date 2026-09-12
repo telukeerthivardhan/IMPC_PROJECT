@@ -1,4 +1,0 @@
-[wokwi]
-version = 1
-elf = "Debug/IMPC_PROJECT.elf"
-firmware = "Debug/IMPC_PROJECT.elf"
